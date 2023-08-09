@@ -78,6 +78,7 @@ The graphics processing unit (GPU) is crucial for visuals and gaming.
 - **Generation Impact**: Focus on the GPU generation for better performance.
 - **TGP (Total Graphics Power)**: Affects performance and thermals.
 - **Strategic Bottleneck**: Let the dGPU be the bottleneck to get better value. In simple words, CPU should be powerful enough to utilize 100% of the GPU.
+- AMD GPUs are preferred due to Open Source Drivers, as Nvidia is a nightmare for OS other than windows.
 
 ## 6. Battery - A Vital Lifeline
 
@@ -143,9 +144,12 @@ check if there are multiple RAM and PCIE slots (for GPU, sound cards, other inte
 
 ## 15. Innovations - Embracing Cutting-Edge Features
 
-Look for innovative features that enhance your laptop experience, such as modular designs or external GPU support.
-
-### Luxurious Additions:
+look for some innovation you can make use of 
+- examples:
+  - **Framework**: Completely modular design
+  - **Asus**: ROG flow lineup supports external GPUs with proprietary port
+ 
+## Luxurious Additions:
 
 - **Mechanical Keyboard**: For satisfying typing experiences.
 - **Enclosure over External SSD**:
