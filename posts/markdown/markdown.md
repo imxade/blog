@@ -57,7 +57,8 @@ Markdown allows you to focus on writing content without distractions. Its lightw
 [StackEdit](https://stackedit.io/app): A markdown playground, where one can learn while experimenting.
 
 ## Can it replace HTML ?
-Maybe, if CSS and JavaScript are not considered.
+No, it just wasn't meant to be.
+For example a `button` can't be created with pure markdown.
 
 ### Limitations of markdown
 - Not consistent:<br>
