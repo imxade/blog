@@ -21,10 +21,10 @@ The central processing unit (CPU) is the powerhouse of your laptop. Here's what 
 ### Intel CPUs
 
 - **Performance Hierarchy**: i3 < i5 < i7 < i9
-  - **i3**: Ideal for students and productivity tasks, moderate for gaming, but might bottleneck mid-to-high-range GPUs.
+  - **i3**: Ideal for students and productivity tasks, moderate for gaming, but may hinder mid-to-high-range GPUs.
   - **i5**: Sufficient for most workloads, great for gaming, won't bottleneck even higher-end GPUs.
   - **i7**: High-performance for demanding tasks and gaming, strikes a balance between power and affordability.
-  - **i9**: Top-tier performance for professionals and enthusiasts, excellent for resource-intensive applications.
+  - **i9**: Pinnacle of performance for professionals and enthusiasts, excellent for resource-intensive applications.
 
 ### AMD CPUs
 
@@ -41,7 +41,7 @@ Random access memory (RAM) is your laptop's short-term memory. Here are some imp
 - **Dual-channel**: Opt for dual-channel RAM of exact stick to improve performance.
 - **Multichannel Boost**: If upgrading, use identical RAM sticks for better performance.
 - **Avoiding Bottlenecks**: Sufficient RAM ensures your system doesn't freeze due to memory constraints.
-- **which 'x'?**: x8 stick performs better then x18. more details [here](https://youtu.be/v8g1_fjmReM)
+- **which 'x'**: x8 stick performs better then x18. more details [here](https://youtu.be/v8g1_fjmReM).
 
 ### Size
 - absolute minimum: 8GB
@@ -49,8 +49,8 @@ Random access memory (RAM) is your laptop's short-term memory. Here are some imp
 - Rendering can make use of even higher amount of RAM.
 
 ## 3. Storage - Swift and Responsive
-
-Solid-state drives (SSD) or NVMe drives revolutionize storage speed for laptops.
+Another part that can be replaced in mostly cases.
+No more mechanical drive, go for NVMe or SSDs for revolutionized speed.
 
 ## 4. Display - Visual Finesse
 
@@ -83,8 +83,9 @@ The graphics processing unit (GPU) is crucial for visuals and gaming.
 ## 6. Battery - A Vital Lifeline
 
 Battery life is a critical consideration for your laptop's portability and usability.
+If available, choose one with hot swappable battery.
 
-- **Degrades Quickly**: Batteries degrade over time, so set a charging threshold if possible.
+**Degrades Quickly**: Current generation batteries degrades quicker than any other components.
 
 ## 7. Webcam - Visual Connectivity
 
@@ -116,10 +117,10 @@ A robust build ensures your laptop withstands daily wear and tear while reflecti
 Your laptop's WiFi card affects your internet connectivity. Consider these factors:
 
 - **Monitor Mode**: even though many cards already supports it, the functionality is still intentionally disabled on windows, for so called better experience.
-- **Packet Injection**: Useful for network analysis and penetration testing.
+- **Packet Injection**: Useful for quick network analysis.
 - **Open-Source Drivers**: Opt for cards with open-source drivers for better OS compatibility.
 
-list of wireless cards with OS support [here](https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers)
+list of wireless cards with OS support [here](https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers).
 
 
 ## 12. Generation & Frequency (Hz)
@@ -136,7 +137,7 @@ So, even if someone manages to take your drive out, they won't be able to boot f
 
 ## 14. Hands-On Testing - Try Before You Buy
 
-If possible, boot up a live USB of your chosen operating system to ensure compatibility and functionality.
+If possible, boot up a live USB of your chosen operating system to ensure compatibility and functionality with the choosen device.
 
 ## 15. Slots & Upgradability
 
