@@ -22,7 +22,7 @@ At the core of your laptop lies the central processing unit (CPU), a true powerh
 
 - **Performance Spectrum**: i3 < i5 < i7 < i9
   - **i3**: Suited for students and productivity, moderate for gaming, but might constrain mid-to-high-range GPUs.
-  - **i5**: Amply capable for most tasks, excellent for gaming, won't impede even top-tier GPUs.
+  - **i5**: Amply capable for most tasks, excellent for gaming, won't hinder even higher mid-tier GPUs.
   - **i7**: High-performance for demanding tasks and gaming, strikes a balance between power and affordability.
   - **i9**: The zenith of performance for professionals and enthusiasts, excels in resource-intensive applications.
 
@@ -41,7 +41,7 @@ Random access memory (RAM) serves as your laptop's short-term memory hub. Here a
 - **Dual-channel Efficiency**: Opt for identical dual-channel RAM sticks to supercharge performance.
 - **Multichannel Synergy**: When upgrading, match RAM sticks for optimum performance.
 - **Banishing Bottlenecks**: Adequate RAM averts system freezes from memory limitations.
-- **Optimal 'x' Selection**: x8 stick outperforms x18; more details [here](https://youtu.be/v8g1_fjmReM).
+- **Optimal 'x' Selection**: x8 stick outperforms x16; more details [here](https://youtu.be/v8g1_fjmReM).
 
 ### Size
 - Absolute Minimum: 8GB
@@ -61,7 +61,7 @@ Your laptop's display is your primary portal. Say goodbye to LCDs and delve into
   - **OLED**: Exceptional contrast, advancements curbing burn-in concerns.
   - **Mini LED**: Great contrast but not as good as OLED, no burn-in concerns.
   - **Micro LED**: Cutting-edge, harboring various refinements.
-- **Refresh Rate**: Elevated rates translate to smoother visuals. For gaming, prioritize refresh rate if your GPU sustains FPS. A 120Hz minimum is recommended for laptop gaming; external monitors compromise portability.
+- **Refresh Rate**: Elevated rates translate to smoother visuals. For gaming, prioritize refresh rate if your GPU sustains that much FPS. A 120Hz minimum is recommended for laptop gaming.
 
 ## 5. GPU - Empowering Visual Grandeur
 
