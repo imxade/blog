@@ -34,6 +34,19 @@ At the core of your laptop lies the central processing unit (CPU), a true powerh
   - **Ryzen 7**: High-performance for multitasking, content creation, and gaming.
   - **Ryzen 9**: Enthusiast-level performance, excels in demanding tasks.
 
+### U vs H_ Series Processor
+Both above mention companies have them. But which one to choose?
+
+#### U Series
+- Basic tasks and casual gaming.
+- Excellent battery life for longer usage away from outlets.
+- Lower heat generation for thinner and lighter laptops.
+
+#### H_ Series
+- High-performance tasks like video editing and demanding gaming.
+- More powerful with higher core counts and clock speeds.
+- Generates more heat, requires better cooling solutions.
+
 ## 2. RAM - Powering Your Multitasking Adventures
 
 Random access memory (RAM) serves as your laptop's short-term memory hub. Here are pivotal considerations:
@@ -74,7 +87,7 @@ The graphics processing unit (GPU) is pivotal for visuals and gaming.
 
 ### Dedicated GPUs (dGPU):
 
-- **VRAM**: Opt for 6GB VRAM or more for seamless gaming.
+- **VRAM**: Opt for 6GB VRAM or more for seamless experience.
 - **Generation Impact**: Prioritize newer GPU generations for enhanced performance.
 - **TGP (Total Graphics Power)**: Affects performance and thermals. Higher is better, consuming more power.
 - **Strategic Bottlenecking**: Optimal performance results when the dGPU is the bottleneck, ensuring full GPU utilization.
@@ -82,9 +95,9 @@ The graphics processing unit (GPU) is pivotal for visuals and gaming.
 
 ## 6. Battery - A Pivotal Lifesaver
 
-Battery life profoundly impacts portability and usability. If possible, select a model with a hot-swappable battery.
-
 **Swift Degradation**: Contemporary batteries degrade more rapidly than other components.
+
+Battery life profoundly impacts portability and usability. If possible, select a model with a hot-swappable battery.
 
 ## 7. Webcam - Visual Connectivity Perfected
 
