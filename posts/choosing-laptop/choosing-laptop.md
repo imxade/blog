@@ -12,11 +12,12 @@ Are you on the hunt for your next laptop? Amidst a bewildering array of options,
 
 ## Table of Contents
 
-## 1. CPU - The Heartbeat of Your Machine
+## 1. CPU
+
+> Performance ∝ power consumption
 
 At the core of your laptop lies the central processing unit (CPU), a true powerhouse. Here's your essential knowledge base:
-- Performance is propotional to power consumption.
-- **Prioritize Threads Over Cores**: Look beyond core count and focus on thread count. Threads boost multitasking prowess and overall system performance.
+- **Prioritize Threads Over Cores**: Look beyond core count and focus on thread count, as a core doesn't always refer to same number of threads.
 
 ### Intel CPUs
 
