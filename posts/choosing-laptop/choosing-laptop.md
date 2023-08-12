@@ -10,8 +10,8 @@ Are you on the hunt for your next laptop? Amidst a bewildering array of options,
 
 ## Table of Contents
 
-## 1. Generation & Frequency (Hz)
-- Generation Matters: Newer generations often bring enhanced performance gains and new features, making them a preferable choice over simply opting for an older higher version.
+## 1. Generation & Frequency
+- Generation Matters: Newer generations often bring enhanced performance gains and new features, making them a preferable choice over simply opting for an older higher-end version.
 - Higher frequencies improve performance and responsiveness.
 
 This applies to CPUs, GPUs, RAM, and displays.
@@ -87,7 +87,7 @@ Random access memory (RAM) serves as your laptop's short-term memory hub. Here a
 |---------------------------|----------|
 | Absolute Minimum          | 8GB      |
 | Recommended               | 2GB per job i.e. 2GB per thread for complete utilization of CPU |
-| Intensive tasks like rendering | benefits from higher RAM capacities |
+| Intensive tasks like rendering | Benefits from higher RAM capacities |
 
 ## 5. Storage - Swift and Responsive
 
