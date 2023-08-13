@@ -34,8 +34,8 @@
 		<p>OTHER</p>
 		<ul>
 			<li><a href="/about">About</a></li>
-			<li><a href="https://codeberg.org/XADE/dotbin/wiki">I Use</a></li>
-			<li><a href="https://joyofcode.xyz">Site From</a></li>
+			<li><a href="https://codeberg.org/XADE/dotbin/wiki" target="_blank">I Use</a></li>
+			<li><a href="https://joyofcode.xyz" target="_blank">Site From</a></li>
 		</ul>
 	</div>
 

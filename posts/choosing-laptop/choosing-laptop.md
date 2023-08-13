@@ -29,7 +29,7 @@ At the core of your laptop lies the central processing unit (CPU), a true powerh
 | Processor Family          | Description |
 |---------------------------|----------|
 | i3                        | Suited for students and productivity, moderate for gaming, might constrain mid-to-high-range GPUs. |
-| i5                        | Capable for most tasks, excellent for gaming, won't hinder higher mid-tier GPUs. |
+| *i5                       | Capable for most tasks, excellent for gaming, won't hinder higher mid-tier GPUs. |
 | i7                        | High-performance for demanding tasks and gaming, balance between power and affordability. |
 | i9                        | Zenith of performance for professionals and enthusiasts, excels in resource-intensive applications. |
 
@@ -40,7 +40,7 @@ At the core of your laptop lies the central processing unit (CPU), a true powerh
 |---------------------------|----------|
 | Ryzen 3                   | Entry-level with commendable performance for everyday tasks and light gaming. |
 | Ryzen 5                   | Versatile performance for a wide array of tasks, from gaming to content creation. |
-| Ryzen 7                   | High-performance for multitasking, content creation, and gaming. |
+| *Ryzen 7                  | High-performance for multitasking, content creation, and gaming. |
 | Ryzen 9                   | Enthusiast-level performance, excels in demanding tasks. |
 
 ### U vs H_ Series Processor
@@ -64,7 +64,7 @@ The graphics processing unit (GPU) is pivotal for visuals and gaming.
   - Enhanced battery life
   - sleek design
   - reduced fan noise
-- **AMD's Edge**: Current-gen AMD iGPUs rival GTX 10XX dedicated GPUs.
+- **AMD's Edge**: Current-gen AMD iGPUs rival Nvidia's **GTX** lineup.
 
 ### Dedicated GPUs (dGPU):
 
