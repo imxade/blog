@@ -10,7 +10,7 @@ Are you on the hunt for your next laptop? Amidst a bewildering array of options,
 
 ## Table of Contents
 
-## 1. Generation & Frequency
+## Generation & Frequency
 - Generation Matters: Newer generations often bring enhanced performance gains and new features, making them a preferable choice over simply opting for an older higher-end version.
 - Higher frequencies improve performance and responsiveness.
 
@@ -18,7 +18,7 @@ This applies to CPUs, GPUs, RAM, and displays.
 
 > Power Consumption ∝ Performance
 
-## 2. CPU
+## CPU
 
 At the core of your laptop lies the central processing unit (CPU), a true powerhouse. Here's your essential knowledge base:
 - **Prioritize Threads Over Cores**: Look beyond core count and focus on thread count, as a core doesn't always refer to same number of threads.
@@ -53,7 +53,7 @@ Both above mention companies have them. But which one to choose?
 | Excellent battery life for longer usage away from outlets. | More powerful with higher core counts and clock speeds. |
 | Lower heat generation for thinner and lighter laptops. | Generates more heat, requires better cooling solutions. |
 
-## 3. GPU - Empowering Visual Grandeur
+## GPU - Empowering Visual Grandeur
 
 The graphics processing unit (GPU) is pivotal for visuals and gaming.
 
@@ -76,7 +76,7 @@ The graphics processing unit (GPU) is pivotal for visuals and gaming.
 | **Strategic Bottlenecking** | Optimal performance results when the dGPU is the bottleneck, ensuring full GPU utilization. |
 - **Nvidia** is not recommended for platform other than **Windows**.
 
-## 4. RAM - Powering Your Multitasking Adventures
+## RAM - Powering Your Multitasking Adventures
 
 Random access memory (RAM) serves as your laptop's short-term memory hub. Here are pivotal considerations:
 - **Dual-channel Efficiency**: Opt for identical dual-channel RAM sticks for better performance.
@@ -89,12 +89,12 @@ Random access memory (RAM) serves as your laptop's short-term memory hub. Here a
 | Recommended               | 2GB per job i.e. 2GB per thread for complete utilization of CPU |
 | Intensive tasks like rendering | Benefits from higher RAM capacities |
 
-## 5. Storage - Swift and Responsive
+## Storage - Swift and Responsive
 
 - Embrace the future: bid farewell to mechanical drives.
 - Opt for the revolutionized speed of NVMe or SSDs.
 
-## 6. Display - Elevating Visual Elegance
+## Display - Elevating Visual Elegance
 
 Your laptop's display is your primary portal. Consider the following factors.
 
@@ -107,16 +107,16 @@ Your laptop's display is your primary portal. Consider the following factors.
   | Micro LED    | Cutting-edge, harboring various refinements. |
 - **Refresh Rate**: Elevated rates translate to smoother visuals. For gaming, prioritize refresh rate if your GPU sustains that much FPS. A 120Hz minimum is recommended for laptop gaming.
 
-## 7. Battery - A Pivotal Lifesaver
+## Battery - A Pivotal Lifesaver
 
 **Swift Degradation**: Contemporary batteries degrade more rapidly than other components.<br>
 Battery life profoundly impacts portability and usability. If possible, select a model with a hot-swappable battery.
 
-## 8. Webcam - Visual Connectivity Perfected
+## Webcam - Visual Connectivity Perfected
 
 Seamless video communication hinges on a high-quality laptop webcam.
 
-## 9. Ports - Forging Connectivity Bridges
+## Ports - Forging Connectivity Bridges
 
 A laptop's port selection forms a critical nexus. Consider these essential ports:
 
@@ -127,18 +127,18 @@ A laptop's port selection forms a critical nexus. Consider these essential ports
 | **Headphone Jack** | For connecting audio devices. |
 | **SD Card Reader** | Beneficial for photographers and content creators. |
 
-## 10. Cooling System - Mastering Temperature Control
+## Cooling System - Mastering Temperature Control
 
 Efficient cooling is vital for sustained laptop performance and longevity.
 
 - **Vent Placement**: Strategic vent layout fosters heat dissipation.
 - **Multiple Fans**: Enhance heat dissipation and counter thermal throttling.
 
-## 11. Build - Robustness and Aesthetic Panache
+## Build - Robustness and Aesthetic Panache
 
 A robust build ensures your laptop withstands daily rigors while reflecting your personal style.
 
-## 12. WiFi Card - Seamless Connectivity
+## WiFi Card - Seamless Connectivity
 
 Your laptop's WiFi card shapes internet connectivity. Consider cards featuring these:
 
@@ -151,16 +151,16 @@ Your laptop's WiFi card shapes internet connectivity. Consider cards featuring t
 - In mostly cases these cards can be switched later. So, these points could be ignored while selecting.
 - For a list of wireless cards with OS support, refer [here](https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers).
 
-## 13. TPM - Hardware Fortification
+## TPM - Hardware Fortification
 
 - Trusted Platform Module (TPM) heightens security by safeguarding encryption keys in hardware.
 - Even if your primary drive falls into unauthorized hands, booting remains an impossibility.
 
-## 14. Slots & Upgradability - Future-Proof Potential
+## Slots & Upgradability - Future-Proof Potential
 
 Assess for multiple RAM and PCIe slots, enabling future upgrades to keep your laptop relevant.
 
-## 15. Innovations - Embrace the Cutting-Edge
+## Innovations - Embrace the Cutting-Edge
 
 Search for innovative features that elevate your experience, such as:
 - **Framework**: Embrace a modular design approach.
