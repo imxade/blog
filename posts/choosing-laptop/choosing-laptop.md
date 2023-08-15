@@ -10,6 +10,14 @@ Are you on the hunt for your next laptop? Amidst a bewildering array of options,
 
 ## Table of Contents
 
+## Where to Start ?
+[Notebook Check's Search](https://www.notebookcheck.net/Search.8222.0.html) would be one of best places to start with.
+1. **Customize Specifications:** Input your preferences, such as processor, graphics card, display and much more.
+2. **Refine Results:** Get a tailored list of devices matching your specs.
+3. **Explore Devices:** Clicking on the listed devices will take you to their comprehensive Blog post.
+
+What to look for ? *Keep reading*
+
 ## Generation & Frequency
 - Generation Matters: Newer generations often bring enhanced performance gains and new features, making them a preferable choice over simply opting for an older higher-end version.
 - Higher frequencies improve performance and responsiveness.
@@ -19,7 +27,6 @@ This applies to CPUs, GPUs, RAM, and displays.
 > Power Consumption ∝ Performance
 
 ## CPU
-
 At the core of your laptop lies the central processing unit (CPU), a true powerhouse. Here's your essential knowledge base:
 - **Prioritize Threads Over Cores**: Look beyond core count and focus on thread count, as a core doesn't always refer to same number of threads.
 
@@ -42,6 +49,20 @@ At the core of your laptop lies the central processing unit (CPU), a true powerh
 | Ryzen 5                   | Versatile performance for a wide array of tasks, from gaming to content creation. |
 | *Ryzen 7                  | High-performance for multitasking, content creation, and gaming. |
 | Ryzen 9                   | Enthusiast-level performance, excels in demanding tasks. |
+
+#### Naming Trap
+Starting from the 7th generation, AMD has introduced changes to their CPU naming conventions. Falling into this naming trap could be a real concern.
+
+Let's break down what each **digit** means:
+
+| Position of Digit | Represents | Example |
+|---|---|---|
+| 1st | Generation | 7 = 7th Gen (2023) |
+| 2nd | Processor Family | 3 = Ryzen 3  |
+| *3rd | *Achitecture *[Most Important]* | 2 = Zen 2, Newer is Better |
+| Remaining | Specific Models | Safely Ignore |
+ 
+> Ryzen **7540**: *7th Gen Ryzen 5 with **Zen 4** Architecture*
 
 ### U vs H_ Series Processor
 Both above mention companies have them. But which one to choose?
