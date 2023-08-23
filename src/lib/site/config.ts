@@ -27,13 +27,11 @@ export const categories = {
 	web: 'Web',
 	os: 'OS',
 	random: 'Random',
-	javascript: 'JavaScript',
 	general: 'General',
 	design: 'Design',
 	git: 'Git',
-	next: 'Next.js',
-	typescript: 'TypeScript',
-	sveltekit: 'SvelteKit',
+  guide: 'Guide',
+  review: 'Review',
 }
 
 // https://api.github.com/repos/user/repo/contents/data/posts.json

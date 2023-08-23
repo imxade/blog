@@ -3,7 +3,7 @@ title: A Laptop Selection Guide
 description: Are you in the market for a new laptop? With an overwhelming array of options available, finding the perfect fit can be quite the challenge. Fret not! We've got you covered.
 slug: choosing-laptop
 published: '2023-07-30'
-category: buy, tech, guide
+category: guide
 ---
 
 Are you on the hunt for your next laptop? Amidst a bewildering array of options, finding the laptop that perfectly aligns with your needs can be a daunting task. Worry not! We've meticulously dissected the crucial components and features to craft this comprehensive guide, ensuring you're well-prepared for your laptop journey.
@@ -11,7 +11,7 @@ Are you on the hunt for your next laptop? Amidst a bewildering array of options,
 ## Table of Contents
 
 ## Where to Start ?
-[Notebook Check's Search](https://www.notebookcheck.net/Search.8222.0.html) would be one of best places to start with.
+[NotebookCheck's Search](https://www.notebookcheck.net/Search.8222.0.html) would be one of best places to start with.
 1. **Customize Specifications:** Input your preferences, such as processor, graphics card, display and much more.
 2. **Refine Results:** Get a tailored list of devices matching your specs.
 3. **Explore Devices:** Clicking on the listed devices will take you to their comprehensive Blog post.
