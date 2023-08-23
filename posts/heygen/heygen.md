@@ -15,6 +15,14 @@ category: review
 
 ## Table of Contents
 
+## How to Use
+
+To get started with HeyGen, you only need an internet connection and a web browser. The platform simplifies video creation in three easy steps:
+
+1. Choose an Avatar: Select one of HeyGen's diverse and customizable avatars.
+2. Select a Voice: Choose the perfect voice from over 300 options in 40+ languages and sync the lip movements flawlessly.
+3. Create the Video: Utilize the intuitive text-to-video feature to transform your written masterpiece into a captivating visual presentation.
+
 ## Pros
 
 - Free Credits: HeyGen provides free credits, making it a budget-friendly option for individuals.
@@ -30,14 +38,6 @@ category: review
 
 - Limited Automatic Video Generation: Some users have expressed a desire for the platform to expand its automatic video generation feature to more websites.
 - Free Plan Limitations: The free plan of HeyGen is limited to 1-min video only.
-
-## How to Use
-
-To get started with HeyGen, you only need an internet connection and a web browser. The platform simplifies video creation in three easy steps:
-
-1. Choose an Avatar: Select one of HeyGen's diverse and customizable avatars.
-2. Select a Voice: Choose the perfect voice from over 300 options in 40+ languages and sync the lip movements flawlessly.
-3. Create the Video: Utilize the intuitive text-to-video feature to transform your written masterpiece into a captivating visual presentation.
 
 ## Pricing
 
