@@ -2,7 +2,7 @@
 title: HeyGen Review
 description: HeyGen is a cloud-based platform that utilizes cutting-edge AI technology to transform text into professional-looking videos. With its extensive library of customizable avatars, diverse voice options, and intuitive text-to-video creation process, HeyGen revolutionizes the way videos are created.
 slug: heygen
-published: '2023-08-22'
+published: '2023-07-22'
 category: review
 ---
 
