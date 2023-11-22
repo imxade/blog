@@ -21,6 +21,9 @@
 			<li>
 				<a href={config.github} target="_blank" rel="noreferrer">GitHub</a>
 			</li>
+      <li>
+				<a href={config.project} target="_blank" rel="noreferrer">Projects</a>
+			</li>
 			<li>
 				<a href={config.codechef} target="_blank" rel="noreferrer">CodeChef</a>
 			</li>

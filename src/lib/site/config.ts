@@ -16,6 +16,7 @@ export const github = 'https://github.com/imxade'
 export const codechef = 'https://www.codechef.com/users/xade'
 export const linkedin = 'https://www.linkedin.com/in/riturajbasak/'
 export const replit = 'https://replit.com/@x4de'
+export const project = 'https://codeberg.org/zz'
 
 export const api = 'https://api.github.com'
 export const owner = 'imxade'
